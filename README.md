@@ -10,3 +10,25 @@
  
  💪 My strengths are - Community involvement, Leadership, positive attitude and a zeal to learn as much possible.
 
+ 🛠  Tech Stack
+ 
+     Languages
+     C,C++,HTML,CSS
+
+     Frameworks
+     Node.js,FireBase
+
+     Databases
+     Mysql
+
+     Package managers
+     Visual Studio
+
+     
+
+
+     
+
+     
+     
+
